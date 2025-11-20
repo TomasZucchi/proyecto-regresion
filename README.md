@@ -1,6 +1,6 @@
 # proyecto-regresion
 
-Integrantes: Mauro Fernandez, Tomás Caceres, Tomas Zucchi. 
+Integrantes: Mauro Fernandez, Tomás Caceres, Tomás Zucchi. 
 
 # Predicción de Precios de Casas con Regresión Lineal Múltiple
 
